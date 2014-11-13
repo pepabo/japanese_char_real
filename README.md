@@ -4,7 +4,7 @@ Japanese Char Real
 ujisのデータベースとutf-8のアプリケーション環境で発生する文字化けを`一部`解消する
 
 [![Gem Version](https://badge.fury.io/rb/japanese_char_real.svg)][gem]
-[![Build Status](https://travis-ci.org/linyows/japanese_char_real.svg?branch=master)][travis]
+[![Build Status](https://travis-ci.org/pepabo/japanese_char_real.svg?branch=master)][travis]
 
 [gem]: https://rubygems.org/gems/japanese_char_real
 [travis]: http://travis-ci.org/linyows/japanese_char_real
