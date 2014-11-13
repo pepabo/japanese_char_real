@@ -7,7 +7,7 @@ ujisのデータベースとutf-8のアプリケーション環境で発生す�
 [![Build Status](https://travis-ci.org/pepabo/japanese_char_real.svg?branch=master)][travis]
 
 [gem]: https://rubygems.org/gems/japanese_char_real
-[travis]: http://travis-ci.org/linyows/japanese_char_real
+[travis]: http://travis-ci.org/pepabo/japanese_char_real
 
 Installation
 ------------
